@@ -147,7 +147,7 @@ news_scraper.py
 
 ## 📸 Demo
 
-![Scraper in Action](screenshot.png)
+![Scraper in Action](output.png)
 
 ## 🚧 Future Improvements
 
@@ -204,3 +204,4 @@ MIT License - Feel free to use and modify
 
 
 📧 **Hire me for scraping projects:** [connectwithaditya04@gmail.com]
+
