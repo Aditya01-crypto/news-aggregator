@@ -1,5 +1,10 @@
 # 📰 Multi-Site News Aggregator
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Playwright](https://img.shields.io/badge/playwright-async-green.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+Asynchronous web scraper...
 Asynchronous web scraper that concurrently aggregates news headlines from multiple Indian news sources into a single CSV file.
 
 ## ✨ Features
@@ -140,6 +145,10 @@ news_scraper.py
 - **Rate limiting**: Consider adding delays for production use
 - **Site changes**: Selectors may need updates if sites redesign
 
+## 📸 Demo
+
+![Scraper in Action](screenshot.png)
+
 ## 🚧 Future Improvements
 
 - [ ] Add command-line arguments for site selection
@@ -192,5 +201,6 @@ MIT License - Feel free to use and modify
 ⭐ **Star this repo if you found it useful!**
 
 💬 **Questions?** Open an issue or reach out!
+
 
 📧 **Hire me for scraping projects:** [connectwithaditya04@gmail.com]
